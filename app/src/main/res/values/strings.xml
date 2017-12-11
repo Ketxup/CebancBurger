@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CebancBurger</string>
+    <string name="introducirdatos">Introduce tus datos:</string>
+    <string name="telefono">Telefono: 666996699</string>
+    <string name="email">eMail: emailprovisional@gmail.com</string>
+    <string name="direccion">Direccion: Calle falsa 123</string>
+    <string name="maps">Ubicacion restaurante:</string>
+</resources>
